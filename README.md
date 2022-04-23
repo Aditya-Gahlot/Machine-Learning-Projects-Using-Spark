@@ -3,6 +3,11 @@
 
 This repository contains an exploration of the famous Iris Dataset as part of the assessment in the Computing tools workshop for Data Visualization and analytic.
 
+# Files
+---------------------------------------------------------------------------------------------------------
+
+Each folder contains the dataset(in xlsx or csv format), the python notebook file.
+
 # Teams Members Name
 ------------------------------------------------------------------------------
 
