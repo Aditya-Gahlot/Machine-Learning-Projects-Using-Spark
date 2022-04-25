@@ -1,12 +1,17 @@
-# Machine-Learning-Projects-Using-Spark
+# Machine Learning Projects Using Spark
 -----------------------------------------------------------------------------------------------
 
-This repository contains an exploration of the famous Iris Dataset as part of the assessment in the Computing tools workshop for Data Visualization and analytic.
+This repository contain the Machine learning projects implemented using Apache Spark (Mlib) on different set of problems statements.
 
 # Files
 ---------------------------------------------------------------------------------------------------------
 
 Each folder contains the dataset(in xlsx or csv format), the python notebook file.
+
+# Problems Statements
+---------------------------------------------------------------------------
+
+  * 
 
 # Teams Members Name
 ------------------------------------------------------------------------------
