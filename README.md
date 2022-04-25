@@ -11,7 +11,11 @@ Each folder contains the dataset(in xlsx or csv format), the python notebook fil
 # Problems Statements
 ---------------------------------------------------------------------------
 
-  * 
+  * Admission Prediction Problem Using Linear Regression
+  * Diabetes Classification Problem Using Logistic Regression 
+  * Wine Quality Classification Problem Using Decision Tree
+  * Basic Spark Function Implementation 
+  * Hive using Spark
 
 # Teams Members Name
 ------------------------------------------------------------------------------
